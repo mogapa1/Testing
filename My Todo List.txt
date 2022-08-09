@@ -2,3 +2,5 @@ My Todo List
 Go to bank
 Go to school
 go to hospital
+go to school for admission
+go to market
